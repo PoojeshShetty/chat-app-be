@@ -12,7 +12,7 @@ Using postgres as the main database for the backend.
 
 ## Decision
 
-Following are some of the resons for going with postgres
+Following are some of the reasons for going with postgres
 
 - Main reason of using postgres is in order to get some exposure in working with postgres
 
